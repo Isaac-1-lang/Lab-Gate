@@ -1,3 +1,4 @@
+import React from 'react';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { Link, NavLink, Route, Routes, useNavigate, useParams } from 'react-router-dom';
 import { Activity, ArrowRight, BadgeCheck, Bell, Building2, CalendarDays, Check, ChevronRight, CircleUserRound, Clock3, FlaskConical, HeartPulse, LayoutDashboard, LockKeyhole, LogOut, MapPin, Menu, Search, ShieldCheck, Sparkles, Star, TestTube2, Users, X } from 'lucide-react';
